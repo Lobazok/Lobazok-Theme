@@ -1,0 +1,54 @@
+    //copy this code and paste into VScode, the default theme will be replaced by my theme
+    "workbench.colorCustomizations": {
+
+      // mi Tema (esta en Dark(clasico))
+      "[Visual Studio Dark]":  {
+            "statusBar.background": "#61841A",
+            "activityBar.background": "#1B1A1E",
+            "sideBar.background": "#292A30",
+            "list.hoverBackground": "#454955",
+            "list.activeSelectionBackground": "#454955",
+            "list.inactiveSelectionBackground": "#454955",
+            "list.focusOutline": "#61841A",
+            "titleBar.activeBackground": "#61841A",
+            "scrollbarSlider.background": "#9C9CA5",
+            "scrollbarSlider.hoverBackground": "#86AA22",
+            "scrollbarSlider.activeBackground": "#61841A",
+            "editor.background": "#30323A",
+            "editorLineNumber.activeForeground": "#B0DD33",
+            "editorLineNumber.foreground": "#61841A",
+            "editor.selectionBackground": "#51535C",
+            "tab.activeBackground": "#51535C",
+            "tab.activeBorder": "#51535C",
+            "tab.hoverBackground": "#6A6B74",
+            "tab.inactiveBackground": "#373A43",
+            "editorGroupHeader.tabsBackground": "#30323A",
+        
+            "editorBracketHighlight.foreground1": "#61841A",
+            "editorBracketHighlight.foreground2": "#a4c328",
+            "editorBracketHighlight.foreground3": "#146c26",
+            "editorBracketHighlight.foreground4": "#64e375",
+            "editorBracketHighlight.foreground5": "#2c8b6d",
+            "editorBracketHighlight.foreground6": "#517a1c",
+            "editorError.background": "#2a2121",
+            "editorError.border": "#631b1b",
+            "editorError.foreground": "#471919" ,
+
+
+            
+        
+     },
+    },
+
+    "editor.tokenColorCustomizations": {
+      "[Visual Studio Dark]":{
+        "comments": "#8a954b",
+        "strings": "#d6ae40",
+        "numbers": "#b5efdd",
+        "variables": "#b3ca6d",
+        "functions": "#46be3b",
+        "keywords": "#DDA15E",
+        "types": "#A8577E",
+        
+      }
+    },
